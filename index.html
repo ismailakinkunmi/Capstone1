@@ -4,234 +4,164 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      rel="stylesheet"
-      href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
-      integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm"
-      crossorigin="anonymous"
-    />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="style.css" />
-    <title>Capstone 1</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Secular+One&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/ab2d2d26a1.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="./css/index.css" />
+    <title>International Youth Week</title>
+    <script src="./scripts/menu.js" defer></script>
+    <script src="./scripts/speakers.js" defer></script>
   </head>
   <body>
     <header>
-      <div class="topBar">
-        <i class="fab fa-facebook-f topBar-icon"></i>
-        <i class="fab fa-twitter topBar-icon"></i>
-        <p>English</p>
-        <p>My Page</p>
-        <p>Logout</p>
-      </div>
-
-      <nav class="navBar">
-        <div>
-          <h1 class="youth-logo">Youth Day</h1>
-        </div>
-        <ul>
-          <li><a href="about.html" class="navLink">About</a></li>
-          <li><a href="#" class="navLink">Program</a></li>
-          <li><a href="#" class="navLink">Speakers</a></li>
-          <li><a href="#" class="navLink">Sponsor</a></li>
+      <nav class="mobile-menu">
+        <h2>
+          <a href="index.html" class="logo">Youth<span>WEEK</span></a>
+        </h2>
+        <ul class="links txt-center">
+          <li><a href="about.html">About</a></li>
+          <li><a href="#program">Program</a></li>
+          <li><a href="#speakers">Speakers</a></li>
+          <li><a href="#partners">Partners</a></li>
         </ul>
       </nav>
-      <div>
-        <i class="fas fa-bars hamburger-icon"></i>
-      </div>
 
-      <div class="hero">
-        <h1 class="day">World Youth Day 2022</h1>
-        <p class="youth">
-          International Youth Day recognises and celebrates the contributions of
-          young volunteers and activists who are pushing for positive change
-          around the world as youngsters serve as catalysts for peace and
-          prosperity, not only in their local communities but on the global
-          stage
+      <nav class="top-nav">
+        <ul>
+          <li>
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+          </li>
+          <li>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+          </li>
+          <li><a href="#">English</a></li>
+          <li><a href="#">My Page</a></li>
+          <li><a href="#">Logout</a></li>
+        </ul>
+      </nav>
+
+      <nav class="navbar">
+        <h2>
+          <a href="index.html" class="logo">Youth<span>WEEK</span></a>
+        </h2>
+        <ul class="links">
+          <li><a href="about.html">About</a></li>
+          <li><a href="#program">Program</a></li>
+          <li><a href="#speakers">Speakers</a></li>
+          <li><a href="#partners">Partners</a></li>
+        </ul>
+        <div class="menu"><span></span><span></span><span></span></div>
+      </nav>
+
+      <section class="hero">
+        <h1>Youth WEEK</h1>
+        <p class="description">
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro,
+          voluptates dolor. Iure dolorum totam debitis natus aspernatur
+          necessitatibus exercitationem numquam at nesciunt ullam ut optio
+          consequatur quo laborum, laboriosam eum.
         </p>
-        <p class="date">2022.1.3(Mon)~4(Tue)</p>
-        <p class="venue">@ National Museum Center, Onikan Road Lagos</p>
-      </div>
+        <h2>2022.02.02(WED) ~ 09(WED)</h2>
+        <p>@ Oakland Convention Center</p>
+      </section>
     </header>
 
-    <section class="main">
-      <h2 class="main-program">Main Program</h2>
+    <section class="program" id="program">
+      <h3>Main Program</h3>
       <hr />
-      <div class="program">
-        <div class="mainIcon">
-          <i class="fas fa-school card"></i>
-          <h4 class="#">Lecture</h4>
+      <div class="list">
+        <div class="card">
+          <i class="fa fa-school fa-3x"></i>
+          <h4>Learn</h4>
           <p>
-            Listen to the speakers from various countries about the messages of
-            sharing and opening
+            Attend 250+ workshops, bootcamps, panel talks, and keynotes covering
+            all new dev technologies.
           </p>
         </div>
-        <div class="mainIcon">
-          <i class="fas fa-laptop-code card"></i>
-          <h4 class="#">Workshop</h4>
+        <div class="card">
+          <i class="fas fa-clipboard-list fa-3x"></i>
+          <h4>Hire</h4>
           <p>
-            Try creating your own work, using open source license rather than
-            just watching on it.
+            Get in front of 1,000+ hirabel developers, engineers and designers
+            at the largest dev tech hiring expo.
           </p>
         </div>
-        <div class="mainIcon">
-          <i class="fas fa-comments card"></i>
-          <h4 class="#">Forum</h4>
-          <p>
-            Have the time to share your taughts and opinions with expert for
-            each topic
-          </p>
-        </div>
-        <div class="mainIcon">
-          <i class="fab fa-connectdevelop card"></i>
-          <h4 class="#">Network</h4>
-          <p>
-            Get opportunities to network with us around the world also after the
-            summit
-          </p>
-        </div>
-
-        <div class="mainIcon">
-          <i class="fas fa-keyboard card"></i>
-          <h4 class="#">Hack</h4>
+        <div class="card">
+          <i class="fas fa-keyboard fa-3x"></i>
+          <h4>Hack</h4>
           <p>
             Join a team or sponsor the hackathon where hundreds of developers
-            will build web and mobile apps
+            will build web and mobile apps that solve
+          </p>
+        </div>
+        <div class="card">
+          <i class="fab fa-slideshare fa-3x"></i>
+          <h4>Exhibit</h4>
+          <p>
+            We sold out of Exhibit space in 2021. Contact us about exhibiting in
+            2022 before we sell out!
+          </p>
+        </div>
+        <div class="card">
+          <i class="fas fa-bullhorn fa-3x"></i>
+          <h4>Sponsor</h4>
+          <p>
+            Many of sponsor packages include exhibiting, hosting an event,
+            participating in our hackathon and
+          </p>
+        </div>
+        <div class="card">
+          <i class="fas fa-calendar-alt fa-3x"></i>
+          <h4>Host</h4>
+          <p>
+            Contact us to learn how you can host a half day of full day
+            workshop/semiar as part of
           </p>
         </div>
       </div>
-      <button class="btnday">Join CC Global Summit 2022</button>
-      <a href="#" class="see">SEE THE WHOLE PROGRAM</a>
+
+      <button>Join Youth Week 2022</button>
+      <a href="#">SEE THE WHOLE PROGRAM</a>
     </section>
 
-    <section class="speaker">
-      <div>
-        <h3 class="featured">Featured Speakers</h3>
-        <hr />
-      </div>
-      <div class="speakerList">
-        <div class="speaker-detail">
-          <div class="image">
-            <img src="/img/image-1.png" alt="image" class="img" />
-          </div>
-          <div class="info">
-            <p class="speakerName">Yochai Benkler</p>
-            <p class="speakerStudy1">
-              Berkman Professor of Enterpreneurial Legal Studies at Havard Law
-              School
-            </p>
-            <hr />
-            <p class="speakerStudy2">
-              Benkler studies commons-based peer production, and published his
-              seminal book The Wealth of Network in 2022
-            </p>
-          </div>
-        </div>
-
-        <div class="speaker-detail">
-          <div class="image">
-            <img src="/img/image-2.png" alt="image" class="img" />
-          </div>
-          <div class="info">
-            <p class="speakerName">Kilnam Chon</p>
-            <hr />
-            <p class="speakerStudy2">
-              Kilnam Chon helped bring bring the internet to Asia and is an
-              outspoken advocate for the open web and digital commons in 2012,
-              he was inducted into the inaugural class of the internet society
-            </p>
-          </div>
-        </div>
-
-        <div class="speaker-detail">
-          <div class="image">
-            <img src="/img/image-3.png" alt="image" class="img" />
-          </div>
-          <div class="info">
-            <p class="speakerName">Sohyeong Noh</p>
-            <p class="speakerStudy1">
-              Director of Art Centre Nabi and a Board Member off CC Korea
-            </p>
-            <hr />
-            <p class="speakerStudy2">
-              As the main venue for new media art production in korea open web
-              and digital commons in 2012, he was inducted into the inaugural
-              class of the internet society
-            </p>
-          </div>
-        </div>
-
-        <div class="speaker-detail">
-          <div class="image">
-            <img src="/img/image-4.png" alt="image" class="img" />
-          </div>
-          <div class="info">
-            <p class="speakerName">Julia Leda</p>
-            <p class="speakerStudy1">President of Young Pirates of Europe</p>
-            <hr />
-            <p class="speakerStudy2">
-              European integration political democracy and participation of
-              youth-logo through online as her major condem Reda's report
-              outlining potential changes to EU copyright
-            </p>
-          </div>
-        </div>
-
-        <div class="speaker-detail">
-          <div class="image">
-            <img src="/img/image-5.png" alt="image" class="img" />
-          </div>
-          <div class="info">
-            <p class="speakerName">Yochai Benkler</p>
-            <p class="speakerStudy1">
-              Berkman Professor of Enterpreneurial Legal Studies at Havard Law
-              School
-            </p>
-            <hr />
-            <p class="speakerStudy2">
-              Benkler studies commons-based peer production, and published his
-              seminal book The Wealth of Network in 2022
-            </p>
-          </div>
-        </div>
-
-        <div class="speaker-detail">
-          <div class="image">
-            <img src="/img/image-6.png" alt="image" class="img" />
-          </div>
-          <div class="info">
-            <p class="speakerName">Ryan Merkley</p>
-            <p class="speakerStudy1">
-              CEO of Creative Commons ex COO of the Mozilla foundation
-            </p>
-            <hr />
-            <p class="speakerStudy2">
-              Benkler studies commons-based peer production, and published his
-              seminal book The Wealth of Network in 2022
-            </p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="partners">
-      <h6>Partner</h6>
+    <section class="speakers" id="speakers">
+      <h3>Featured Speakers</h3>
       <hr />
-      <div class="companies">
-        <h6>Mozilla</h6>
-        <h6>Google</h6>
-        <h6>Naver</h6>
-        <h6>daumkakao</h6>
-        <h6>airbnb</h6>
+
+      <div class="list"></div>
+
+      <div class="more-btn">
+        <span>MORE</span>
+        <i class="fas fa-chevron-down"></i>
       </div>
     </section>
 
-    <footer>
-      <h6>World Youth Day 2022</h6>
+    <section class="partner" id="partners">
+      <h3>Featured Speakers</h3>
+      <hr />
+      <div class="logos">
+        <i class="fab fa-aws fa-4x"></i>
+        <i class="fab fa-ebay fa-4x"></i>
+        <i class="fab fa-ember fa-4x"></i>
+        <i class="fab fa-lyft fa-4x"></i>
+        <i class="fab fa-node fa-4x"></i>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="logo">Youth<span>WEEK</span></div>
+      <p>2022 YouthWeek. Some Rights Reserved.</p>
     </footer>
   </body>
 </html>

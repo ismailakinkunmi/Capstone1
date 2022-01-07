@@ -4,53 +4,117 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
-    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Secular+One&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/ab2d2d26a1.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="./css/index.css" />
+    <title>International Youth Week</title>
+    <script src="./scripts/menu.js" defer></script>
   </head>
   <body>
     <header>
-      <nav class="navBar">
-        <div>
-          <h1 class="youth-logo">Youth Day</h1>
-        </div>
-        <ul>
-          <li><a href="#" class="navLink">History</a></li>
-          <li><a href="#" class="navLink">Partner</a></li>
+      <nav class="mobile-menu">
+        <h2>
+          <a href="index.html" class="logo">Youth<span>WEEK</span></a>
+        </h2>
+        <ul class="links txt-center">
+          <li><a href="#history">History</a></li>
+          <li><a href="#partners">Partners</a></li>
         </ul>
       </nav>
 
-      <div class="hero">
-        <h1 class="day">World Youth Day 2022</h1>
-        <p class="youth">
-          International Youth Day is an awareness day designated by the United
-          Nations. The purpose of the day is to draw attention to a given set of
-          cultural and legal issues surrounding youth
+      <nav class="top-nav">
+        <ul>
+          <li>
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+          </li>
+          <li>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+          </li>
+          <li><a href="#">English</a></li>
+          <li><a href="#">My Page</a></li>
+          <li><a href="#">Logout</a></li>
+        </ul>
+      </nav>
+
+      <nav class="navbar">
+        <h2>
+          <a href="index.html" class="logo">Youth<span>WEEK</span></a>
+        </h2>
+        <ul class="links">
+          <li><a href="#history">History</a></li>
+          <li><a href="#partners">Partners</a></li>
+        </ul>
+        <div class="menu"><span></span><span></span><span></span></div>
+      </nav>
+
+      <section class="hero txt-center flex-center">
+        <h1>Youth WEEK</h1>
+        <p class="description">
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro,
+          voluptates dolor. Iure dolorum totam debitis natus aspernatur
+          necessitatibus exercitationem numquam at nesciunt ullam ut optio
+          consequatur quo laborum, laboriosam eum.
         </p>
-      </div>
+        <p class="p-5">
+          Please contact us per Email for any further questions about YouthWeek
+          2022! <br />
+          <a href="#">contact@youthweek.com</a>
+        </p>
+      </section>
     </header>
 
-    <section class="youthImages">
-      <div>
-        <img src="img/Youth.jpg" alt="" />
-      </div>
-      <div>
-        <img src="img/youth-3.png" alt="" />
+    <section class="past txt-center" id="history">
+      <h3>See the past Youth Weeks</h3>
+      <hr />
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quos
+        aperiam facilis?
+      </p>
+
+      <div class="list">
+        <div class="card">
+          <div class="content">
+            <h4>2015</h4>
+            <p>YouthWeek in toronto</p>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="content">
+            <h4>2013</h4>
+            <p>YouthWeek in london</p>
+          </div>
+        </div>
       </div>
     </section>
 
-    <section class="partners">
-      <h6>Partner</h6>
+    <section class="partner" id="partners">
+      <h3>Featured Speakers</h3>
       <hr />
-      <div class="companies">
-        <h6>Mozilla</h6>
-        <h6>Google</h6>
-        <h6>Naver</h6>
-        <h6>daumkakao</h6>
-        <h6>airbnb</h6>
+      <div class="logos">
+        <i class="fab fa-aws fa-4x"></i>
+        <i class="fab fa-ebay fa-4x"></i>
+        <i class="fab fa-ember fa-4x"></i>
+        <i class="fab fa-lyft fa-4x"></i>
+        <i class="fab fa-node fa-4x"></i>
       </div>
     </section>
-    <footer>
-      <h6>World Youth Day 2022</h6>
+
+    <footer class="footer">
+      <div class="logo">Youth<span>WEEK</span></div>
+      <p>2021 YouthWeek. Some Rights Reserved.</p>
     </footer>
   </body>
 </html>
