@@ -14,12 +14,11 @@
 
 ## Presentation Video
 
-## Authors
+## Author
 
-👤 **Adekunle Akinkunmi Ismail**
-
-- GitHub: [@rachidelaid](https://github.com/ismailakinkunmi)
-- LinkedIn: [rachid elaid](https://www.linkedin.com/in/ismail-akinkunmi-adekunle-b810aa155/)
+1. Name: Adekunle Akinkunmi Ismail
+2. Github: @<https://github.com/ismailakinkunmi>
+3. LinkedIn: @<https://www.linkedin.com/in/ismail-akinkunmi-adekunle-b810aa155/>
 
 ## Show your support
 
@@ -27,7 +26,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- thanks to microverse for the opportunity
+Hat tip 👒 to microverse for the opportunity, my coding partners and code reviewer for their contribution.
 
 ## 📝 License
 
