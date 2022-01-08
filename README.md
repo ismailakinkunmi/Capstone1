@@ -1,4 +1,4 @@
-# capstone1
+# Youth Week
 
 > a website about the International youth Week event. for the microverse capstone1.
 
