@@ -3,7 +3,6 @@ header {
     position: fixed;
     width: 100vw;
     height: 100vh;
-    // background-color: transparentize(#fff, 0.1);
     background: #fff;
     display: none;
     flex-direction: column;
@@ -63,10 +62,9 @@ header {
 
     h2 {
       display: none;
-      display: block;
-
-      // @include desktop {
-      // }
+      @include desktop {
+        display: block;
+      }
     }
 
     & .logo {
@@ -139,8 +137,6 @@ header {
       font-size: 50px;
       background-image: url(../../images/BlobGroup.svg);
       background-size: cover;
-      // background-clip: text;
-      // -webkit-background-clip: text;
       color: transparent;
 
       @include desktop {
@@ -150,7 +146,6 @@ header {
 
     & .description {
       padding: 15px;
-      // background-color: darken(#fff, 5);
       background-color: #fff;
       border: 5px solid #fff;
     }
