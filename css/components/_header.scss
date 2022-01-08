@@ -62,6 +62,7 @@ header {
 
     h2 {
       display: none;
+
       @include desktop {
         display: block;
       }
