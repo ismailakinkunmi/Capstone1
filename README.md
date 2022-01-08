@@ -10,9 +10,11 @@
 
 ## Live Link
 
-[Live Link](https://ismailakinkunmi.github.io/capstone/)
+[Live Link](http://127.0.0.1:5500/index.html/)
 
-## Presentation Video
+## Video Presentation
+
+[Loom Link](https://www.loom.com/share/74a5724e4b0e46b299357fd4fd807371/)
 
 ## Author
 

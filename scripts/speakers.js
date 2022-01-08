@@ -1,43 +1,43 @@
 const speakers = [
   {
-    name: 'Leonardo Murillo',
-    title: 'Founder of Cloud Native Architects',
-    image: './images/image-1.png',
+    name: 'Bill Gate',
+    title: 'is an American business magnate, software developer',
+    image: './images/image1.jpg',
     description:
-      "I'm a CTO and Entrepreneur. I'm passionate about Cloud Native Solutions, DevOps and AllTheOps that followed. I'm also organizer of the DevOps + Cloud Native Community in Costa Rica and a DevOps Institute Ambassador.",
+      'William Henry Gates III is an American business magnate, software developer, He is a co-founder of Microsoft, along with his late childhood friend Paul Allen.',
   },
   {
-    name: 'Zain Asgar',
-    title: 'GVP & Product GM @ New Relic',
-    image: './images/image-2.png',
+    name: 'Nelson Mandela',
+    title: 'Former President of South Africa',
+    image: './images/image2.jpg',
     description:
-      'Zain Asgar is part of Stanford Profiles, official site for faculty, postdocs, students and staff information (Expertise, Bio, Research, Publications, and more). The site facilitates research and collaboration in academic endeavors.',
+      'Nelson Rolihlahla Mandela was a South African anti-apartheid revolutionary who served as the first president of South Africa from 1994 to 1999.',
   },
   {
-    name: 'Gerta Sheganaku',
-    title: 'GVP & Product GM @ New Relic',
-    image: './images/image-3.png',
+    name: 'Joe Biden',
+    title: '46th U.S. President',
+    image: './images/image3.jpg',
     description:
-      'Gerta Sheganaku is a Product Manager for AI/ML solutions at Tricentis where she focuses on building AI based tool that enable testers to focus on the fun parts of QA.',
+      'Joseph Robinette Biden Jr. is an American politician who is the 46th and current president of the United States.',
   },
   {
-    name: 'Michael Stahnke',
-    title: 'Vice President of Platform @ CircleCI',
-    image: './images/image-4.png',
+    name: 'Jeffrey Bezos',
+    title: 'jeffrey Preston Bezos is an American entrepreneur',
+    image: './images/image4.jpg',
     description:
-      'Michael Stahnke is VP Platform at CircleCI running SRE, Security, and tooling. Prior to this, he worked at Puppet running PE, Platform engineering as well as SRE.',
+      'Bezos is a computer engineer,commercial astronaut. He is the founder and executive chairman of Amazon, where he previously served as the president and CEO.',
   },
   {
-    name: 'Cem Yildirim',
-    title: 'VP & Head of Engineering @ Fast',
-    image: './images/image-5.png',
+    name: 'Mark Zuckerberg',
+    title: 'Chief Executive Officer of Facebook',
+    image: './images/image5.jpg',
     description:
-      'Cem Yalçın Yıldırım is a Turkish mathematician who specializes in number theory. He obtained his B.Sc from Middle East Technical University in Ankara, Turkey and his PhD from the University of Toronto in 1990.',
+      'Mark Elliot Zuckerberg is an American media magnate, internet entrepreneur, and philanthropist. He is known for co-founding Meta Platforms, Inc.',
   },
   {
     name: 'Dan Sturman',
     title: 'Chief Technology Officer @ Roblox',
-    image: './images/image-6.png',
+    image: './images/image6.jpg',
     description:
       'Dan holds a Ph.D. and MS in Computer Science from the University of Illinois at Urbana-Champaign and a BS in Computer Science from Cornell University. ',
   },
