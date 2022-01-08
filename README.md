@@ -8,9 +8,9 @@
 - SCSS
 - JavaScript
 
-## Live Link
+## Live Project
 
-[Live Link](http://127.0.0.1:5500/index.html/)
+[Live Link](http://127.0.0.1:5500/index.html)
 
 ## Video Presentation
 
