@@ -10,7 +10,7 @@
 
 ## Live Project
 
-[Live Link](http://127.0.0.1:5500/index.html)
+This site was built using [GitHub Pages](https://ismailakinkunmi.github.io/Capstone1/)
 
 ## Video Presentation
 
@@ -18,7 +18,7 @@
 
 ## Author
 
-1. Name: Adekunle Akinkunmi Ismail
+1. Adekunle Akinkunmi Ismail
 2. Github: @<https://github.com/ismailakinkunmi>
 3. LinkedIn: @<https://www.linkedin.com/in/ismail-akinkunmi-adekunle-b810aa155/>
 
@@ -28,7 +28,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-Hat tip 👒 to microverse for the opportunity, my coding partners and code reviewer for their contribution.
+- Hat tip 👒 to microverse for the opportunity, my coding partners and code reviewer for their contribution.
+- thanks to [adagio07](https://www.behance.net/adagio07) for the design.
 
 ## 📝 License
 
