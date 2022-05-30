@@ -25,7 +25,7 @@ This site was built using [GitHub Pages](https://ismailakinkunmi.github.io/Capst
 
 1. Adekunle Akinkunmi Ismail
 2. Github: @<https://github.com/ismailakinkunmi>
-3. LinkedIn: @<https://www.linkedin.com/in/ismail-akinkunmi-adekunle-b810aa155/>
+3. LinkedIn: @<https://www.linkedin.com/in/adismail4/>
 
 ## Show your support
 
