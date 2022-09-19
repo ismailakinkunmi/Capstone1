@@ -41,11 +41,12 @@ This site was built using [GitHub Pages](https://ismailakinkunmi.github.io/Capst
 - GitHub: [@ismailakinkunmi](https://github.com/ismailakinkunmi)
 - LinkedIn: [Adekunle Ismail](https://www.linkedin.com/in/adismail4/)
 
-## Acknowledgments
+## Credits
 
-- Hat tip 👒 to microverse for the opportunity, my coding partners and code reviewer for their contribution.
+- The original design ideal by [Cindy Shin in Behance](https://www.behance.net/adagio07)
 
-- The original design ideal by [Cindy Shin in Behance](https://www.behance.net/adagio07) for the design.
+- Project from [Microverse](https://bit.ly/MicroverseTN) html & css module
+- Images inspired by this [All avatar images](https://pravatar.cc/images)
 
 ## Show your support
 
