@@ -1,14 +1,10 @@
-# Youth Week
+# html-css-js-capstone-project
 
-
-## This is my final project for HTML & CSS MODULE from the microverse curriculum
-
+This is my final project for HTML & CSS MODULE from the microverse curriculum
 
 ![Screenshot (72)](https://user-images.githubusercontent.com/37457094/151452601-fb501a21-e1fe-47be-8f32-083a6fb3e023.png)
 
 ![Screenshot (73)](https://user-images.githubusercontent.com/37457094/151452576-3913218f-03d0-491a-8ee9-ccbb652de73f.png)
-
-
 
 This project is meant to test student ability's on being able to put together all that they have learnt in a module to ensure they mastered it well.
 
@@ -40,18 +36,17 @@ This site was built using [GitHub Pages](https://ismailakinkunmi.github.io/Capst
 
 ## Author
 
-
 👤 **Adekunle Akinkunmi Ismail**
 
 - GitHub: [@ismailakinkunmi](https://github.com/ismailakinkunmi)
 - LinkedIn: [Adekunle Ismail](https://www.linkedin.com/in/adismail4/)
 
+## Credits
 
-## Acknowledgments
+- The original design ideal by [Cindy Shin in Behance](https://www.behance.net/adagio07)
 
-- Hat tip 👒 to microverse for the opportunity, my coding partners and code reviewer for their contribution.
-
-- The original design ideal by [Cindy Shin in Behance](https://www.behance.net/adagio07) for the design.
+- Project from [Microverse](https://bit.ly/MicroverseTN) html & css module
+- Images inspired by this [All avatar images](https://pravatar.cc/images)
 
 ## Show your support
 
