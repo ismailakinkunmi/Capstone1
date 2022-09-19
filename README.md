@@ -1,12 +1,14 @@
 # Youth Week
 
+
 ## This is my final project for HTML & CSS MODULE from the microverse curriculum
+
 
 ![Screenshot (72)](https://user-images.githubusercontent.com/37457094/151452601-fb501a21-e1fe-47be-8f32-083a6fb3e023.png)
 
 ![Screenshot (73)](https://user-images.githubusercontent.com/37457094/151452576-3913218f-03d0-491a-8ee9-ccbb652de73f.png)
 
-> a website about the International youth Week event. for the microverse capstone1.
+
 
 This project is meant to test student ability's on being able to put together all that they have learnt in a module to ensure they mastered it well.
 
@@ -38,10 +40,12 @@ This site was built using [GitHub Pages](https://ismailakinkunmi.github.io/Capst
 
 ## Author
 
+
 👤 **Adekunle Akinkunmi Ismail**
 
-1. Github: @<https://github.com/ismailakinkunmi>
-2. LinkedIn: @<https://www.linkedin.com/in/adismail4/>
+- GitHub: [@ismailakinkunmi](https://github.com/ismailakinkunmi)
+- LinkedIn: [Adekunle Ismail](https://www.linkedin.com/in/adismail4/)
+
 
 ## Acknowledgments
 
@@ -55,4 +59,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
