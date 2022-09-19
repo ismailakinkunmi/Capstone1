@@ -1,6 +1,6 @@
-# Youth Week
+# html-css-js-capstone-project
 
-## This is my final project for HTML & CSS MODULE from the microverse curriculum
+This is my final project for HTML & CSS MODULE from the microverse curriculum
 
 ![Screenshot (72)](https://user-images.githubusercontent.com/37457094/151452601-fb501a21-e1fe-47be-8f32-083a6fb3e023.png)
 
