@@ -32,7 +32,7 @@ This site was built using [GitHub Pages](https://ismailakinkunmi.github.io/Capst
 
 ## Video Presentation
 
-[Loom Link](https://www.loom.com/share/74a5724e4b0e46b299357fd4fd807371/)
+Here's a [video link](https://www.loom.com/share/74a5724e4b0e46b299357fd4fd807371/) of me giving a few description of the project.
 
 ## Author
 
